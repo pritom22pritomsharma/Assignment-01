@@ -5,4 +5,51 @@ body {
 
 .parent {
   display: flex;
+  margin: 100px;
+}
+
+.half-width {
+  width: 40%;
+  margin-left: 90px;
+  margin-bottom: 120px;
+}
+
+.half-width img {
+  width: 100%;
+}
+
+.button {
+  border: 1px solid white;
+  background-image: linear-gradient(#fec5bb, #fec89a);
+  color: black;
+  padding: 5px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.triple-width {
+  width: 30%;
+  margin-left: 3%;
+}
+
+.triple-width img {
+  width: 35%;
+}
+
+.first-pic {
+  background-color: rgba(245, 222, 179, 0.593);
+}
+
+.second-pic {
+  background-color: rgba(23, 122, 158, 0.331);
+}
+
+.third-pic {
+  background-color: #fec5bbb7;
+}
+
+.fourth-image {
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
