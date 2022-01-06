@@ -54,3 +54,30 @@ body {
   background-repeat: no-repeat;
   background-position: right;
 }
+
+.fifth-pic {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.h1fontsize {
+  font-size: 45px;
+}
+
+.h2fontsize {
+  font-size: 35px;
+}
+
+.tomato {
+  color: tomato;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.footer-tp {
+  text-align: center;
+  padding-top: 6px;
+}
